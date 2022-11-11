@@ -3945,7 +3945,7 @@ div[class*="col"]:nth-child(2) .video-item::before {
 @media (max-width: 575px) {
 	.login-wrapper {
 		max-width: 450px;
-		padding: 40px 10px;
+		padding: 25px 10px;
 		border: none;
 	}
 }
@@ -4642,7 +4642,7 @@ h6 {
 @media (max-width: 575px) {
 
 	a.login-logo-two.d-lg-none.d-block.text-center img {
-		width: 105px;
+		width: 140px;
 	}
 }
 @media (min-width: 1400px) {
@@ -4671,7 +4671,7 @@ h6 {
 }
 @media (max-width: 575px) {
 	.bottom-text {
-		padding-top: 25px;
+		padding-top: 24px;
 	}
 }
 .pb--35 {
